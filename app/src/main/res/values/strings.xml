@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">DemoRecycleView</string>
+    <string name="nguyen_duc_canh">Nguyen Duc Canh</string>
+    <string name="dao_tuan_anh">Dao Tuan Anh</string>
+    <string name="trinh_xuan_nam">Trinh Xuan Nam</string>
+    <string name="canh_date_of_birth">25/10/1996</string>
+    <string name="anh_date_of_birth">25/11/1996</string>
+    <string name="sampleProfileText">Dao Tuan Anh</string>
+
 </resources>
